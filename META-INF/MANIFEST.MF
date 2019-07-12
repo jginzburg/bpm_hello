@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-Description: <html><body>This project contains the <b>Employee 
+ Self Evaluation</b> Process and Forms.</body></html> 
+Bundle-SymbolicName: evaluation
+Bundle-Name: Employee Self Evaluation
+Bundle-Version: 1.0.0.201505151142
+Bundle-ManifestVersion: 2
+Bundle-Vendor: JBoss
+
+
